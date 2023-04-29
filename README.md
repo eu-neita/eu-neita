@@ -25,11 +25,11 @@ src="https://img.shields.io/github/followers/eu-neita?logo=github&style=for-the-
 </p>
 
 
-### Socials
+<p align="center">### Socials
 
-<p align="left"> <a href="https://www.github.com/eu-neita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nathan-crevelin-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/eu-neita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nathan-crevelin-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<p align="center">### Badges
 
 <b>My GitHub Stats</b>
 
@@ -37,4 +37,4 @@ src="https://img.shields.io/github/followers/eu-neita?logo=github&style=for-the-
 
 <a href="http://www.github.com/eu-neita"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eu-neita&stroke=64748b&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/eu-neita" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-neita&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/eu-neita" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-neita&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
