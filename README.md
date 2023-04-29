@@ -29,9 +29,9 @@ src="https://img.shields.io/github/followers/eu-neita?logo=github&style=for-the-
 
 <a href="https://www.github.com/eu-neita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nathan-crevelin-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="center">### Badges
+### Badges
 
-<b>My GitHub Stats</b>
+<p align="center"><b>My GitHub Stats</b>
 
 <a href="http://www.github.com/eu-neita"><img src="https://github-readme-stats.vercel.app/api?username=eu-neita&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="eu-neita's GitHub stats" /></a>
 
