@@ -5,7 +5,7 @@ Music producer and Web developer
 --------------------------------
 
 * 🌍  I'm based in Curitiba, Brazil
-* 🧠  I'm learning I'm finalizing my last front end module, and the next challenge will be back end, so last focus on computer science
+* 🧠  I'm learning finalizing my last front end module, and the next challenge will be back end, so last focus on computer science
 * 🤝  I'm open to collaborating on projects involving artificial intelligence I am very interested, and translations of documentation into Portuguese
 
 <a href="https://www.github.com/eu-neita" target="_blank" rel="noreferrer"><img
